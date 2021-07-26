@@ -5,5 +5,3 @@ Bring
 Tent
 
 Add commit
-Hotel
-------------
