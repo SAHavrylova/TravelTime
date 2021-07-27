@@ -4,6 +4,3 @@ Vilkovo
 Bring
 Tent
 
-Add commit
-
-New branch git checkout 
